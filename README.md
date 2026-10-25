@@ -186,6 +186,7 @@ NVIDIA research code for humanoids, navigation and manipulation (GR00T Whole-Bod
 - [Docker and Cluster Guide](https://isaac-sim.github.io/IsaacLab/develop/source/workflows/docker/cluster.html) - Running Isaac Lab containers on SLURM and PBS clusters with Singularity/Apptainer.
 - [Editor Setup](https://isaac-sim.github.io/IsaacLab/develop/source/developer-tools/editor_setup.html) - Configuring VS Code and compatible editors with the repository's shared settings.
 - [Agent Skills](https://isaac-sim.github.io/IsaacLab/develop/source/developer-tools/agent_skills.html) - Instruction files that help coding agents with installation, migration and RL debugging.
+- [isaaclab-h100](https://github.com/Kyk0/isaaclab-h100) - Guide and scripts for headless Isaac Lab 2.x training on H100 GPUs, with rollout recording and browser replay without RTX rendering.
 
 ## Projects
 
