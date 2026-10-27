@@ -422,8 +422,8 @@ Papers whose public code uses Isaac Lab or Orbit, newest first within each topic
 - **SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks** (ICLR 2025) [[paper]](https://arxiv.org/abs/2503.04538) [[code]](https://github.com/NVlabs/SRSA)
 - **Re³Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation** (ICRA 2026) [[paper]](https://arxiv.org/abs/2502.08645) [[code]](https://github.com/InternRobotics/Re3Sim)
 - **AnyPlace: Learning Generalized Object Placement for Robot Manipulation** (CoRL 2025) [[paper]](https://arxiv.org/abs/2502.04531) [[code]](https://github.com/ac-rad/anyplace)
-- **FORGE: Force-Guided Exploration for Robust Contact-Rich Manipulation under Uncertainty** (arXiv 2024) [[paper]](https://arxiv.org/abs/2408.04587) [[code]](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/forge)
-- **AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries** (arXiv 2024) [[paper]](https://arxiv.org/abs/2407.08028) [[code]](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/automate)
+- **FORGE: Force-Guided Exploration for Robust Contact-Rich Manipulation under Uncertainty** (arXiv 2024) [[paper]](https://arxiv.org/abs/2408.04587) [[code]](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/contrib/forge)
+- **AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries** (arXiv 2024) [[paper]](https://arxiv.org/abs/2407.08028) [[code]](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/contrib/automate)
 - **Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation** (arXiv 2024) [[paper]](https://arxiv.org/abs/2403.03949) [[code]](https://github.com/real-to-sim-to-real/RialToPolicyLearning)
 
 ### Dexterous
@@ -471,7 +471,6 @@ Archived or superseded projects, kept for reference when porting older code.
 
 ## Related Lists
 
-- [awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym) - Resources for Isaac Gym, the predecessor of Isaac Lab.
 - [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) - Resources for Isaac Sim.
 - [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - Papers on humanoid robot learning.
 - [Awesome-Robot-Learning](https://github.com/RayYoh/Awesome-Robot-Learning) - Papers on robot learning.
